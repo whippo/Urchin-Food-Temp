@@ -1,0 +1,37 @@
+cultureID,dateStarted,species,dateChecked,cultureDay,density,dateFed,quantityFed,sourceCulture,innoculationVolume,notes
+Rhle20190104-001,2019-01-04,Rhodomonas lens,2019-01-07,4,960000,NA,NA,Lab Stock,unknown,
+Rhle20190104-001,2019-01-04,Rhodomonas lens,2019-01-08,5,520000,NA,NA,Lab Stock,unknown,
+Rhle20190104-001,2019-01-04,Rhodomonas lens,2019-01-09,6,1240000,NA,NA,Lab Stock,unknown,
+Rhle20190104-001,2019-01-04,Rhodomonas lens,2019-01-10,7,920000,NA,NA,Lab Stock,unknown,
+Rhle20190104-001,2019-01-04,Rhodomonas lens,2019-01-11,8,1520000,NA,NA,Lab Stock,unknown,
+Isga20190104-001,2019-01-04,Isochrysis galbana,2019-01-07,4,760000,NA,NA,Lab Stock,unknown,clumping observed
+Isga20190104-001,2019-01-04,Isochrysis galbana,2019-01-08,5,840000,NA,NA,Lab Stock,unknown,clumping observed
+Isga20190104-001,2019-01-04,Isochrysis galbana,2019-01-09,6,520000,NA,NA,Lab Stock,unknown,clumping observed
+Isga20190104-001,2019-01-04,Isochrysis galbana,2019-01-10,7,960000,NA,NA,Lab Stock,unknown,lots of clumps
+Isga20190104-001,2019-01-04,Isochrysis galbana,2019-01-11,8,1600000,NA,NA,Lab Stock,unknown,lots of clumps
+Rhle20190108-001,2019-01-08,Rhodomonas lens,2019-01-08,1,80000,NA,NA,Lab Stock,unknown,
+Rhle20190108-001,2019-01-08,Rhodomonas lens,2019-01-09,2,80000,NA,NA,Lab Stock,unknown,
+Rhle20190108-001,2019-01-08,Rhodomonas lens,2019-01-10,3,240000,NA,NA,Lab Stock,unknown,
+Rhle20190108-001,2019-01-08,Rhodomonas lens,2019-01-11,4,440000,NA,NA,Lab Stock,unknown,
+Rhle20190108-001,2019-01-08,Rhodomonas lens,2019-01-14,7,1000000,2019-01-14,30,Lab Stock,unknown,
+Rhle20190108-002,2019-01-08,Rhodomonas lens,2019-01-08,1,47273,NA,NA,Rhle20190104-001,50,density calculated from innoculant
+Rhle20190108-002,2019-01-08,Rhodomonas lens,2019-01-09,2,40000,NA,NA,Rhle20190104-001,50,
+Rhle20190108-002,2019-01-08,Rhodomonas lens,2019-01-10,3,120000,NA,NA,Rhle20190104-001,50,
+Rhle20190108-002,2019-01-08,Rhodomonas lens,2019-01-11,4,80000,NA,NA,Rhle20190104-001,50,
+Rhle20190108-002,2019-01-08,Rhodomonas lens,2019-01-14,7,400000,NA,NA,Rhle20190104-001,50,
+Rhle20190110-001,2019-01-10,Rhodomonas lens,2019-01-10,1,110400,NA,NA,Rhle20190104-001,78,density calculated from innoculant
+Rhle20190110-001,2019-01-10,Rhodomonas lens,2019-01-11,2,120000,NA,NA,Rhle20190104-001,78,
+Rhle20190110-001,2019-01-10,Rhodomonas lens,2019-01-14,5,880000,NA,NA,Rhle20190104-001,78,
+Rhle20190114-001,2019-01-14,Rhodomonas lens,2019-01-14,1,85000,NA,NA,Rhle20190108-001,51,"density calculated from innoculant, had to use old tubing & stopper wrapped in foil"
+Isga20190108-001,2019-01-08,Isochrysis galbana,2019-01-08,1,120000,NA,NA,Lab Stock,unknown,
+Isga20190108-001,2019-01-08,Isochrysis galbana,2019-01-09,2,280000,NA,NA,Lab Stock,unknown,
+Isga20190108-001,2019-01-08,Isochrysis galbana,2019-01-10,3,680000,NA,NA,Lab Stock,unknown,
+Isga20190108-001,2019-01-08,Isochrysis galbana,2019-01-11,4,920000,NA,NA,Lab Stock,unknown,
+Isga20190108-001,2019-01-08,Isochrysis galbana,2019-01-14,7,5720000,2019-01-14,5.25,Lab Stock,unknown,some clumps
+Isga20190108-002,2019-01-08,Isochrysis galbana,2019-01-08,1,77891,NA,NA,Isga20190104-001,51,density calculated from innoculant
+Isga20190108-002,2019-01-08,Isochrysis galbana,2019-01-09,2,40000,NA,NA,Isga20190104-001,51,
+Isga20190108-002,2019-01-08,Isochrysis galbana,2019-01-10,3,80000,NA,NA,Isga20190104-001,51,
+Isga20190108-002,2019-01-08,Isochrysis galbana,2019-01-11,4,20000,NA,NA,Isga20190104-001,51,"cells in culture but none in counting squares, density given is maximum possible"
+Isga20190108-002,2019-01-08,Isochrysis galbana,2019-01-14,7,560000,NA,NA,Isga20190104-001,51,
+Isga20190111-001,2019-01-11,Isochrysis galbana,2019-01-11,1,90414,NA,NA,Isga20190108-001,57,density calculated from innoculant
+Isga20190111-001,2019-01-11,Isochrysis galbana,2019-01-14,4,400000,NA,NA,Isga20190108-001,57,
