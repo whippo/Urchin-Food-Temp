@@ -61,10 +61,19 @@ ggplot(data = algal_culture, aes(x = cultureDay, y = density)) +
   geom_line(aes(color = species)) +
   geom_point() +
   facet_grid(~cultureID) +
-  ylim(0,1300000) +
+  #ylim(0,1700000) +
   scale_color_viridis(discrete = TRUE, option = "D", begin = 0.85, end = 0.5) +
   theme_minimal() 
   
+ggplot(data = algal_culture, aes(x = cultureDay, y = density)) +
+  geom_hline(yintercept = 700000, color = "red") +
+  geom_smooth(aes(color = species), se = FALSE, method = "lm", formula = y ~ x + I(x^2)) +
+  geom_point() +
+  facet_grid(~species) +
+  ylim(0,1700000) +
+  scale_color_viridis(discrete = TRUE, option = "D", begin = 0.85, end = 0.5) +
+  theme_minimal() 
+
 
 ############### SUBSECTION HERE
 
