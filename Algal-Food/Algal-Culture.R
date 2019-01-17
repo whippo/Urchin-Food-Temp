@@ -60,7 +60,7 @@ ggplot(data = algal_culture, aes(x = cultureDay, y = density)) +
   geom_hline(yintercept = 700000, color = "red") +
   geom_line(aes(color = species)) +
   geom_point() +
-  facet_grid(~cultureID) +
+  facet_wrap(~cultureID) +
   #ylim(0,1700000) +
   scale_color_viridis(discrete = TRUE, option = "D", begin = 0.85, end = 0.5) +
   theme_minimal() 
