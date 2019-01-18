@@ -52,6 +52,10 @@ algal_culture <- read.csv("Algal-Culture-Log.csv")
 
 str(algal_culture)
 
+# Add 'fed' factor to identify cultures fed to urchins in plots
+algal_culture$fed <- ifelse(algal_culture$quantityFed > 1, 'yes')
+algal_culture$fed[is.na(algal_culture$fed)] <- "no"
+
 ###################################################################################
 # MANIPULATE DATA                                                                 #
 ###################################################################################
@@ -59,7 +63,7 @@ str(algal_culture)
 ggplot(data = algal_culture, aes(x = cultureDay, y = density)) +
   geom_hline(yintercept = 700000, color = "red") +
   geom_line(aes(color = species)) +
-  geom_point() +
+  geom_point(aes(shape = factor(fed))) +
   facet_wrap(~cultureID) +
   #ylim(0,1700000) +
   scale_color_viridis(discrete = TRUE, option = "D", begin = 0.85, end = 0.5) +
@@ -68,9 +72,9 @@ ggplot(data = algal_culture, aes(x = cultureDay, y = density)) +
 ggplot(data = algal_culture, aes(x = cultureDay, y = density)) +
   geom_hline(yintercept = 700000, color = "red") +
   geom_smooth(aes(color = species), se = FALSE, method = "lm", formula = y ~ x + I(x^2)) +
-  geom_point() +
+  geom_point(aes(size = fed)) +
   facet_grid(~species) +
-  ylim(0,1700000) +
+  #ylim(0,1700000) +
   scale_color_viridis(discrete = TRUE, option = "D", begin = 0.85, end = 0.5) +
   theme_minimal() 
 
