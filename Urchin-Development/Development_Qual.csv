@@ -1,0 +1,246 @@
+Date,Treatment,Replicate,Culture Day,Food,Temp,Life Stage,Extinct,Settled
+2019-01-11,H-ISGA-1,0,2,Isochrysis,High,Mesenchyme Blastula,No,No
+2019-01-11,H-RHLE-2,0,2,Rhodomonas,High,Mesenchyme Blastula,No,No
+2019-01-11,H-ISGA-3,0,2,Isochrysis,High,Mesenchyme Blastula,No,No
+2019-01-11,H-RHLE-4,0,2,Rhodomonas,High,Mesenchyme Blastula,No,No
+2019-01-11,H-RHLE-5,0,2,Rhodomonas,High,Mesenchyme Blastula,No,No
+2019-01-11,H-ISGA-6,0,2,Isochrysis,High,Mesenchyme Blastula,No,No
+2019-01-11,C-ISGA-1,0,2,Isochrysis,Low,Mesenchyme Blastula,No,No
+2019-01-11,C-RHLE-2,0,2,Rhodomonas,Low,Mesenchyme Blastula,No,No
+2019-01-11,C-RHLE-3,0,2,Rhodomonas,Low,Mesenchyme Blastula,No,No
+2019-01-11,C-ISGA-4,0,2,Isochrysis,Low,Mesenchyme Blastula,No,No
+2019-01-11,C-ISGA-5,0,2,Isochrysis,Low,Mesenchyme Blastula,No,No
+2019-01-11,C-RHLE-6,0,2,Rhodomonas,Low,Mesenchyme Blastula,No,No
+2019-01-14,C-ISGA-5,1,5,Isochrysis,Low,Gastrula,No,No
+2019-01-14,C-ISGA-5,2,5,Isochrysis,Low,Gastrula,No,No
+2019-01-14,C-ISGA-5,3,5,Isochrysis,Low,Gastrula,No,No
+2019-01-14,C-RHLE-6,1,5,Rhodomonas,Low,Gastrula,No,No
+2019-01-14,C-RHLE-6,2,5,Rhodomonas,Low,Gastrula,No,No
+2019-01-14,C-RHLE-6,3,5,Rhodomonas,Low,Gastrula,No,No
+2019-01-14,H-ISGA-6,1,5,Isochrysis,High,Early Pluetus,No,No
+2019-01-14,H-ISGA-6,2,5,Isochrysis,High,Early Pluetus,No,No
+2019-01-14,H-ISGA-6,3,5,Isochrysis,High,Early Pluetus,No,No
+2019-01-14,H-RHLE-5,1,5,Rhodomonas,High,Early Pluetus,No,No
+2019-01-14,H-RHLE-5,2,5,Rhodomonas,High,Early Pluetus,No,No
+2019-01-14,H-RHLE-5,3,5,Rhodomonas,High,Early Pluetus,No,No
+2019-01-16,C-ISGA-4,1,7,Isochrysis,Low,Early Pluetus,No,No
+2019-01-16,C-ISGA-4,2,7,Isochrysis,Low,Early Pluetus,No,No
+2019-01-16,C-ISGA-4,3,7,Isochrysis,Low,Early Pluetus,No,No
+2019-01-16,C-RHLE-3,1,7,Rhodomonas,Low,Early Pluetus,No,No
+2019-01-16,C-RHLE-3,2,7,Rhodomonas,Low,Early Pluetus,No,No
+2019-01-16,C-RHLE-3,3,7,Rhodomonas,Low,Early Pluetus,No,No
+2019-01-16,H-ISGA-3,1,7,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-16,H-ISGA-3,2,7,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-16,H-ISGA-3,3,7,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-16,H-RHLE-4,1,7,Rhodomonas,High,4-Arm Pluteus,No,No
+2019-01-16,H-RHLE-4,2,7,Rhodomonas,High,4-Arm Pluteus,No,No
+2019-01-16,H-RHLE-4,3,7,Rhodomonas,High,4-Arm Pluteus,No,No
+2019-01-18,C-ISGA-1,1,9,Isochrysis,Low,Early Pluetus,No,No
+2019-01-18,C-ISGA-1,2,9,Isochrysis,Low,Early Pluetus,No,No
+2019-01-18,C-ISGA-1,3,9,Isochrysis,Low,Early Pluetus,No,No
+2019-01-18,C-RHLE-2,1,9,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-18,C-RHLE-2,2,9,Rhodomonas,Low,Early Pluetus,No,No
+2019-01-18,C-RHLE-2,3,9,Rhodomonas,Low,Early Pluetus,No,No
+2019-01-18,H-ISGA-1,1,9,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-18,H-ISGA-1,2,9,Isochrysis,High,Early Pluetus,No,No
+2019-01-18,H-ISGA-1,3,9,Isochrysis,High,Early Pluetus,No,No
+2019-01-18,H-RHLE-2,1,9,Rhodomonas,High,4-Arm Pluteus,No,No
+2019-01-18,H-RHLE-2,2,9,Rhodomonas,High,4-Arm Pluteus,No,No
+2019-01-18,H-RHLE-2,3,9,Rhodomonas,High,4-Arm Pluteus,No,No
+2019-01-20,C-ISGA-5,1,11,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-20,C-ISGA-5,2,11,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-20,C-ISGA-5,3,11,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-20,C-RHLE-6,1,11,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-20,C-RHLE-6,2,11,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-20,C-RHLE-6,3,11,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-20,H-ISGA-6,1,11,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-20,H-ISGA-6,2,11,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-20,H-ISGA-6,3,11,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-20,H-RHLE-5,1,11,Rhodomonas,High,4-Arm Pluteus,No,No
+2019-01-20,H-RHLE-5,2,11,Rhodomonas,High,4-Arm Pluteus,No,No
+2019-01-20,H-RHLE-5,3,11,Rhodomonas,High,4-Arm Pluteus,No,No
+2019-01-22,C-ISGA-4,1,13,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-22,C-ISGA-4,2,13,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-22,C-ISGA-4,3,13,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-22,C-RHLE-3,1,13,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-22,C-RHLE-3,2,13,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-22,C-RHLE-3,3,13,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-22,H-ISGA-3,1,13,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-22,H-ISGA-3,2,13,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-22,H-ISGA-3,3,13,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-22,H-RHLE-4,1,13,Rhodomonas,High,6-Arm Pluteus,No,No
+2019-01-22,H-RHLE-4,2,13,Rhodomonas,High,6-Arm Pluteus,No,No
+2019-01-22,H-RHLE-4,3,13,Rhodomonas,High,6-Arm Pluteus,No,No
+2019-01-24,C-ISGA-1,1,15,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-24,C-ISGA-1,2,15,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-24,C-ISGA-1,3,15,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-24,C-RHLE-2,1,15,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-24,C-RHLE-2,2,15,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-24,C-RHLE-2,3,15,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-24,H-ISGA-1,1,15,Isochrysis,High,Early Pluetus,No,No
+2019-01-24,H-ISGA-1,2,15,Isochrysis,High,Early Pluetus,No,No
+2019-01-24,H-ISGA-1,3,15,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-24,H-RHLE-2,1,15,Rhodomonas,High,8-Arm Pluteus,No,No
+2019-01-24,H-RHLE-2,2,15,Rhodomonas,High,6-Arm Pluteus,No,No
+2019-01-24,H-RHLE-2,3,15,Rhodomonas,High,8-Arm Pluteus,No,No
+2019-01-26,C-ISGA-5,1,17,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-26,C-ISGA-5,2,17,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-26,C-ISGA-5,3,17,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-26,C-RHLE-6,1,17,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-26,C-RHLE-6,2,17,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-26,C-RHLE-6,3,17,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-26,H-ISGA-6,1,17,Isochrysis,High,Early Pluetus,No,No
+2019-01-26,H-ISGA-6,2,17,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-26,H-ISGA-6,3,17,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-26,H-RHLE-5,1,17,Rhodomonas,High,8-Arm Pluteus,No,No
+2019-01-26,H-RHLE-5,2,17,Rhodomonas,High,8-Arm Pluteus,No,No
+2019-01-26,H-RHLE-5,3,17,Rhodomonas,High,8-Arm Pluteus,No,No
+2019-01-28,C-ISGA-4,1,19,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-28,C-ISGA-4,2,19,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-28,C-ISGA-4,3,19,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-28,C-RHLE-3,1,19,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-28,C-RHLE-3,2,19,Rhodomonas,Low,Early Pluetus,No,No
+2019-01-28,C-RHLE-3,3,19,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-28,H-ISGA-3,1,19,Isochrysis,High,Early Pluetus,No,No
+2019-01-28,H-ISGA-3,2,19,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-28,H-ISGA-3,3,19,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-28,H-RHLE-4,1,19,Rhodomonas,High,8-Arm Pluteus,No,No
+2019-01-28,H-RHLE-4,2,19,Rhodomonas,High,8-Arm Pluteus,No,No
+2019-01-28,H-RHLE-4,3,19,Rhodomonas,High,8-Arm Pluteus,No,No
+2019-01-30,C-ISGA-1,1,21,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-30,C-ISGA-1,2,21,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-30,C-ISGA-1,3,21,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-01-30,C-RHLE-2,1,21,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-30,C-RHLE-2,2,21,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-30,C-RHLE-2,3,21,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-01-30,H-ISGA-1,1,21,Isochrysis,High,4-Arm Pluteus,No,No
+2019-01-30,H-ISGA-1,2,21,Isochrysis,High,Early Pluetus,No,No
+2019-01-30,H-ISGA-1,3,21,Isochrysis,High,Early Pluetus,No,No
+2019-01-30,H-RHLE-2,1,21,Rhodomonas,High,8-Arm Pluteus,No,No
+2019-01-30,H-RHLE-2,2,21,Rhodomonas,High,Malformed Pluteus,No,No
+2019-01-30,H-RHLE-2,3,21,Rhodomonas,High,Malformed Pluteus,No,No
+2019-01-30,H-RHLE-2,4,21,Rhodomonas,High,Malformed Pluteus,No,No
+2019-02-01,C-ISGA-5,1,23,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-01,C-ISGA-5,2,23,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-01,C-ISGA-5,3,23,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-01,C-RHLE-6,1,23,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-02-01,C-RHLE-6,2,23,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-02-01,C-RHLE-6,3,23,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-02-01,H-ISGA-6,1,23,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-01,H-ISGA-6,2,23,Isochrysis,High,Early Pluetus,No,No
+2019-02-01,H-ISGA-6,3,23,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-01,H-RHLE-5,1,23,Rhodomonas,High,8-Arm Pluteus – early rudiment,No,No
+2019-02-01,H-RHLE-5,2,23,Rhodomonas,High,8-Arm Pluteus – early rudiment,No,No
+2019-02-01,H-RHLE-5,3,23,Rhodomonas,High,8-Arm Pluteus,No,No
+2019-02-03,C-ISGA-4,1,25,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-03,C-ISGA-4,2,25,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-03,C-ISGA-4,3,25,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-03,C-RHLE-2,1,25,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-02-03,C-RHLE-2,2,25,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-02-03,C-RHLE-2,3,25,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-02-03,H-ISGA-1,1,25,Isochrysis,High,Early Pluetus,No,No
+2019-02-03,H-ISGA-1,2,25,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-03,H-ISGA-1,3,25,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-03,H-RHLE-4,1,25,Rhodomonas,High,8-Arm Pluteus – early rudiment,No,No
+2019-02-03,H-RHLE-4,2,25,Rhodomonas,High,8-Arm Pluteus,No,No
+2019-02-03,H-RHLE-4,3,25,Rhodomonas,High,8-Arm Pluteus,No,No
+2019-02-05,C-ISGA-1,1,27,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-05,C-ISGA-1,2,27,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-05,C-ISGA-1,3,27,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-05,C-RHLE-2,1,27,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-02-05,C-RHLE-2,2,27,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-02-05,C-RHLE-2,3,27,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-02-05,C-RHLE-2,4,27,Rhodomonas,Low,4-Arm Pluteus,No,No
+2019-02-05,H-ISGA-1,1,27,Isochrysis,High,Early Pluetus,No,No
+2019-02-05,H-ISGA-1,2,27,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-05,H-ISGA-1,3,27,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-05,H-RHLE-2,1,27,Rhodomonas,High,8-Arm Pluteus – early rudiment,No,No
+2019-02-05,H-RHLE-2,2,27,Rhodomonas,High,6-Arm Pluteus,No,No
+2019-02-05,H-RHLE-2,3,27,Rhodomonas,High,6-Arm Pluteus,No,No
+2019-02-05,H-RHLE-2,4,27,Rhodomonas,High,8-Arm Pluteus – early rudiment,No,No
+2019-02-07,C-ISGA-5,1,29,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-07,C-ISGA-5,2,29,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-07,C-ISGA-5,3,29,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-07,H-ISGA-1,1,29,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-07,H-ISGA-1,2,29,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-07,H-ISGA-1,3,29,Isochrysis,High,6-Arm Pluteus,No,No
+2019-02-07,H-RHLE-5,1,29,Rhodomonas,High,8-Arm Pluteus – early rudiment,No,No
+2019-02-07,H-RHLE-5,2,29,Rhodomonas,High,8-Arm Pluteus – early rudiment,No,No
+2019-02-07,H-RHLE-5,3,29,Rhodomonas,High,8-Arm Pluteus – rudiment ,No,No
+2019-02-09,C-ISGA-1,1,31,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-09,C-ISGA-1,2,31,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-09,C-ISGA-1,3,31,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-09,H-ISGA-1,1,31,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-09,H-ISGA-1,2,31,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-09,H-ISGA-1,3,31,Isochrysis,High,Early Pluetus,No,No
+2019-02-09,H-ISGA-1,4,31,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-09,H-RHLE-4,1,31,Rhodomonas,High,8-Arm Pluteus – rudiment ,No,No
+2019-02-09,H-RHLE-4,2,31,Rhodomonas,High,8-Arm Pluteus – rudiment ,No,No
+2019-02-09,H-RHLE-4,3,31,Rhodomonas,High,8-Arm Pluteus – early rudiment,No,No
+2019-02-11,C-ISGA-1,1,33,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-11,C-ISGA-1,2,33,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-02-11,C-ISGA-1,3,33,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-11,H-ISGA-1,1,33,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-11,H-ISGA-1,2,33,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-11,H-ISGA-1,3,33,Isochrysis,High,Early Pluetus,No,No
+2019-02-11,H-RHLE-2,1,33,Rhodomonas,High,8-Arm Pluteus – rudiment ,No,No
+2019-02-11,H-RHLE-2,2,33,Rhodomonas,High,8-Arm Pluteus – rudiment ,No,No
+2019-02-11,H-RHLE-2,3,33,Rhodomonas,High,8-Arm Pluteus,No,No
+2019-02-14,C-ISGA-1,1,36,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-02-14,C-ISGA-1,2,36,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-02-14,C-ISGA-1,3,36,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-02-14,H-ISGA-1,1,36,Isochrysis,High,Early Pluetus,No,No
+2019-02-14,H-ISGA-1,2,36,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-14,H-RHLE-5,1,36,Rhodomonas,High,8-Arm Pluteus – rudiment ,No,No
+2019-02-14,H-RHLE-5,2,36,Rhodomonas,High,8-Arm Pluteus – rudiment ,No,No
+2019-02-14,H-RHLE-5,3,36,Rhodomonas,High,8-Arm Pluteus – competent,No,No
+2019-02-16,C-ISGA-1,1,38,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-02-16,C-ISGA-1,2,38,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-02-16,C-ISGA-1,3,38,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-02-16,H-ISGA-1,1,38,Isochrysis,High,6-Arm Pluteus,No,No
+2019-02-16,H-RHLE-4,1,38,Rhodomonas,High,Competent Larva – with arms,No,No
+2019-02-16,H-RHLE-4,2,38,Rhodomonas,High,8-Arm Pluteus – rudiment ,No,No
+2019-02-16,H-RHLE-4,3,38,Rhodomonas,High,8-Arm Pluteus – early rudiment,No,No
+2019-02-19,C-ISGA-1,1,41,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-02-19,C-ISGA-1,2,41,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-02-19,C-ISGA-1,3,41,Isochrysis,Low,4-Arm Pluteus,No,No
+2019-02-19,H-ISGA-1,1,41,Isochrysis,High,Early Pluetus,No,No
+2019-02-19,H-ISGA-1,2,41,Isochrysis,High,Early Pluetus,No,No
+2019-02-19,H-RHLE-2,1,41,Rhodomonas,High,8-Arm Pluteus – rudiment ,No,Yes
+2019-02-19,H-RHLE-2,2,41,Rhodomonas,High,8-Arm Pluteus – competent,No,Yes
+2019-02-19,H-RHLE-2,3,41,Rhodomonas,High,8-Arm Pluteus – rudiment ,No,Yes
+2019-02-19,H-RHLE-5,1,41,Rhodomonas,High,Competent Larva – with arms,No,Yes
+2019-02-19,H-RHLE-5,2,41,Rhodomonas,High,8-Arm Pluteus – rudiment ,No,Yes
+2019-02-21,C-ISGA-1,1,43,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-02-21,C-ISGA-1,2,43,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-02-21,C-ISGA-1,3,43,Isochrysis,Low,8-Arm Pluteus,No,No
+2019-02-21,H-ISGA-1,1,43,Isochrysis,High,Early Pluetus,No,No
+2019-02-21,H-ISGA-1,2,43,Isochrysis,High,8-Arm Pluteus,No,No
+2019-02-21,H-ISGA-1,3,43,Isochrysis,High,4-Arm Pluteus,No,No
+2019-02-21,H-RHLE-4,1,43,Rhodomonas,High,Competent Larva – with arms,No,No
+2019-02-21,H-RHLE-5,1,43,Rhodomonas,High,Competent Larva – with arms,No,Yes
+2019-02-21,H-RHLE-5,2,43,Rhodomonas,High,8-Arm Pluteus – rudiment ,No,Yes
+2019-02-21,H-RHLE-5,3,43,Rhodomonas,High,Competent Larva – with arms,No,Yes
+2019-02-21,H-RHLE-5,4,43,Rhodomonas,High,Juvenile,No,Yes
+2019-03-01,C-ISGA-1,1,51,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-03-01,C-ISGA-1,2,51,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-03-01,C-ISGA-1,3,51,Isochrysis,Low,8-Arm Pluteus,No,No
+2019-03-01,H-RHLE-5,1,51,Rhodomonas,High,Juvenile,No,Yes
+2019-03-01,H-RHLE-5,2,51,Rhodomonas,High,Competent Larva – with arms,No,Yes
+2019-03-01,H-RHLE-5,3,51,Rhodomonas,High,8-Arm Pluteus – rudiment ,No,Yes
+2019-03-04,C-ISGA-1,1,54,Isochrysis,Low,6-Arm Pluteus,No,No
+2019-03-04,C-ISGA-1,2,54,Isochrysis,Low,8-Arm Pluteus,No,No
+2019-03-04,C-ISGA-1,3,54,Isochrysis,Low,8-Arm Pluteus,No,No
+2019-03-04,H-RHLE-4,1,54,Rhodomonas,High,Juvenile,No,Yes
+2019-03-04,H-RHLE-4,2,54,Rhodomonas,High,Juvenile,No,Yes
+2019-03-04,H-RHLE-5,1,54,Rhodomonas,High,Competent Larva – with arms,No,Yes
+2019-03-04,H-RHLE-5,2,54,Rhodomonas,High,Juvenile,No,Yes
+2019-02-04,H-ISGA-3,0,26,Isochrysis,High,Extinct,Yes,No
+2019-02-04,C-RHLE-3,0,26,Rhodomonas,Low,Extinct,Yes,No
+2019-02-07,C-RHLE-6,0,29,Rhodomonas,Low,Extinct,Yes,No
+2019-02-07,C-RHLE-2,0,29,Rhodomonas,Low,Extinct,Yes,No
+2019-02-07,H-ISGA-6,0,29,Isochrysis,High,Extinct,Yes,No
+2019-02-09,C-ISGA-4,0,31,Isochrysis,Low,Extinct,Yes,No
+2019-02-14,C-ISGA-5,0,36,Isochrysis,Low,Extinct,Yes,No
+2019-02-21,H-RHLE-2,0,43,Rhodomonas,High,Extinct,Yes,Yes
+2019-03-01,H-ISGA-1,0,51,Isochrysis,High,Extinct,Yes,No

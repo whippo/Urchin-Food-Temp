@@ -57,3 +57,29 @@ Rhle20190110-001,2019-01-10,Rhodomonas lens,2019-01-20,11,1980000,NA,NA,Rhle2019
 Rhle20190120-001,2019-01-20,Rhodomonas lens,2019-01-20,1,196114,NA,NA,Rhle20190110-001,52,density calculated from innoculant
 Isga20190115-001,2019-01-15,Isochrysis galbana,2019-01-20,6,1600000,2019-01-20,18.75,Isga20190108-001,51,"spun down and resuspended, 7.5 to 30 ml appx"
 Rhle20190114-001,2019-01-14,Rhodomonas lens,2019-01-20,7,800000,2019-01-20,50,Rhle20190108-001,51,"spun down and resuspended, but density was consistently low. Had to bring up multiple spun-down alloquots to 50ml to attain desired density. Need to bring all feeding tubes back to original feeding quantity to maintain density! Density listed here is likely overestimation."
+Isga20190115-001,2019-01-15,Isochrysis galbana,2019-01-22,8,3280000,2019-01-22,9.15,Isga20190108-001,51,spun down and resuspended to feeding volume
+Rhle20190117-001,2019-01-17,Rhodomonas lens,2019-01-22,6,560000,2019-01-22,53.57,Rhle20190108-002,51,spun down and resuspended to feeding volume
+Isga20190117-001,2019-01-17,Isochrysis galbana,2019-01-24,8,2200000,2019-01-24,13.64,Isga20190108-002,51,spun down and resuspended to feeding volume
+Isga20190111-001,2019-01-11,Isochrysis galbana,2019-01-24,14,5640000,NA,NA,Isga20190108-001,57,
+Rhle20190120-001,2019-01-20,Rhodomonas lens,2019-01-24,5,1000000,2019-01-24,30,Rhle20190110-001,52,spun down and resuspended to feeding volume
+Isga20190124-001,2019-01-24,Isochrysis galbana,2019-01-24,1,433846,NA,NA,Isga20190111-001,50,density calculated from innoculant
+Rhle20190124-001,2019-01-24,Rhodomonas lens,2019-01-24,1,80000,NA,NA,Rhle20190120-001,50,density calculated from innoculant
+Rhle20190120-001,2019-01-20,Rhodomonas lens,2019-01-26,7,1840000,2019-01-26,16.3,Rhle20190110-001,52,spun down and resuspended to feeding volume
+Isga20190122-001,2019-01-22,Isochrysis galbana,2019-01-26,5,1080000,2019-01-26,27.78,Isga20190115-001,50,spun down and resuspended to feeding volume
+Isga20190122-001,2019-01-22,Isochrysis galbana,2019-01-22,1,273333,NA,NA,Isga20190115-001,50,density calculated from innoculant
+Rhle20190122-001,2019-01-22,Rhodomonas lens,2019-01-22,1,42311,NA,NA,Rhle20190117-001,51,density calculated from innoculant
+Isga20190117-001,2019-01-17,Isochrysis galbana,2019-01-26,10,3440000,NA,NA,Isga20190108-002,51,
+Isga20190126-001,2019-01-26,Isochrysis galbana,2019-01-26,1,264615,NA,NA,Isga20190117-001,50,density calculated from innoculant
+Rhle20190126-001,2019-01-26,Rhodomonas lens,2019-01-26,1,147200,NA,NA,Rhle20190120-001,50,density calculated from innoculant
+Rhle20190122-001,2019-01-22,Rhodomonas lens,2019-01-28,7,640000,2019-01-28,46.88,Rhle20190117-001,51,spun down and resuspended to feeding volume; redo of earlier measurement (400000 cells/ml) b/c of bubble and strangely low number. Culture looked denser.
+Isga20190122-001,2019-01-22,Isochrysis galbana,2019-01-26,5,1200000,2019-01-28,25,Isga20190115-001,50,spun down and resuspended to feeding volume
+Isga20190122-001,2019-01-22,Isochrysis galbana,2019-01-29,8,2720000,NA,NA,Isga20190115-001,50,
+Rhle20190122-001,2019-01-22,Rhodomonas lens,2019-01-29,8,720000,NA,NA,Rhle20190117-001,51,
+Rhle20190129-001,2019-01-29,Rhodomonas lens,2019-01-29,1,67376,NA,NA,Rhle20190122-001,51,density calculated from innoculant
+Isga20190129-001,2019-01-29,Isochrysis galbana,2019-01-29,1,252218,NA,NA,Isga20190122-001,51,density calculated from innoculant
+Rhle20190122-001,2019-01-22,Rhodomonas lens,2019-01-30,9,1080000,2019-01-30,27.78,Rhle20190117-001,51,spun down and resuspended to feeding volume
+Isga20190124-001,2019-01-24,Isochrysis galbana,2019-01-30,7,2360000,2019-01-30,12.71,Isga20190111-001,50,spun down and resuspended to feeding volume
+Rhle20190124-001,2019-01-24,Rhodomonas lens,2019-01-31,8,670000,NA,NA,Rhle20190120-001,50,
+Isga20190124-001,2019-01-24,Isochrysis galbana,2019-01-31,8,3160000,NA,NA,Isga20190111-001,50,
+Rhle20190131-001,2019-01-31,Rhodomonas lens,2019-01-31,1,62697,NA,NA,Rhle20190124-001,51,density calculated from innoculant
+Isga20190131-001,2019-01-31,Isochrysis galbana,2019-01-31,1,279646,NA,NA,Isga20190124-001,50,density calculated from innoculant
