@@ -78,18 +78,22 @@ ggplot(data = filter(devel, date != "2019-01-11"), aes(x = date, y = totalLength
 
 ggplot(data = filter(devel, date != "2019-01-11"), aes(x = temperatureTreatment, y = totalLength, fill = foodTreatment)) +
   geom_boxplot() +
-  scale_fill_viridis(discrete = TRUE, begin = 0.4, end = 0.7, option = "A")
+  scale_fill_viridis(discrete = TRUE, begin = 0.8, end = 0.5, option = "C")
   
 # qual: 
 qual_devel <- qual %>%
   filter(Life.Stage != "Malformed Pluteus")
-ggplot(data = qual_devel, aes(x = Culture.Day, y = Life.Stage, color = Food, fill = Food)) +
+qual_devel$Num.Stage <- qual_devel$Life.Stage %>%
+  recode("Extinct" = "0", "Mesenchyme Blastula" = "1", "Gastrula" = "2", "Early Pluteus" = "3", "4-Arm Pluteus" = "4", "6-Arm Pluteus" = "5", "8-Arm Pluteus" = "6", "8-Arm Pluteus – early rudiment" = "7", "8-Arm Pluteus – rudiment " = "8", "8-Arm Pluteus – competent" = "9", "Competent Larva – with arms" = "10", "Juvenile" = "11")
+qual_devel$Num.Stage <- as.numeric(qual_devel$Num.Stage)
+ggplot(data = qual_devel, aes(x = Culture.Day, y = Life.Stage, color = Food, fill = Food, group = Treatment)) +
   theme_classic() +
   geom_point(position = "jitter", size = 4, aes(shape = Temp)) +
   scale_shape_manual(values = c(2, 6)) +
   scale_colour_viridis(discrete = TRUE, begin = 0.8, end = 0.5, option = "C") +
   scale_x_continuous(breaks = scales::pretty_breaks(n = 8)) +
-  geom_hline(yintercept=1.5, linetype="dashed", color = "black", size=1)
+  geom_hline(yintercept=1.5, linetype="dashed", color = "black", size=1) +
+  stat_smooth(aes(Culture.Day, Num.Stage), method = loess, se = FALSE)
 
 # geom_line(aes(group = Treatment))
 
