@@ -1,10 +1,10 @@
 ###################################################################################
 #                                                                                ##
 # Urchin Development                                                             ##
-# Data are current as of 2019-03-13                                            ##
+# Data are current as of 2019-03-13                                              ##
 # Data source: Oregon Institute of Marine Biology                                ##
 # R code prepared by Ross Whippo                                                 ##
-# Last updated 2019-03-13                                                      ##
+# Last updated 2019-03-13                                                        ##
 #                                                                                ##
 ###################################################################################
 
@@ -56,7 +56,7 @@ library(viridis)
 devel <- read.csv("Urchin-Temp-Food-Development.csv")
 str(devel)
 
-qual <- read.csv("Urchin-Development/Development_Qual.csv")
+qual <- read.csv("Development_Qual.csv")
 str(qual)
 # change values of particular observations in column
 qual$Life.Stage %>%
