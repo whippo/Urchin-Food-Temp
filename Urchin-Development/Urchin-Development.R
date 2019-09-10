@@ -40,6 +40,7 @@
 
 # 2019-01-18 Script created.
 # 2019-03-13 Added visualization of qualitative development of urchin larvae
+# 2019-09-10 Added beginnings of quantitative analyses
 
 ###################################################################################
 # LOAD PACKAGES                                                                   #
@@ -48,15 +49,16 @@
 library(tidyverse)
 library(ggplot2)
 library(viridis)
+library(dabestr)
 
 ###################################################################################
 # READ IN AND PREPARE DATA                                                        #
 ###################################################################################
 
-devel <- read.csv("Urchin-Temp-Food-Development.csv")
+devel <- read.csv("Urchin-Development/Urchin-Temp-Food-Development.csv")
 str(devel)
 
-qual <- read.csv("Development_Qual.csv")
+qual <- read.csv("Urchin-Development/Development_Qual.csv")
 str(qual)
 # change values of particular observations in column
 qual$Life.Stage %>%
@@ -71,6 +73,7 @@ levels(qual$Life.Stage)
 
 # devel:
 
+# boxplots of total length and treatments
 ggplot(data = filter(devel, date != "2019-01-11"), aes(x = date, y = totalLength, fill = temperatureTreatment)) +
   geom_boxplot() +
   facet_wrap(~ foodTreatment) +
@@ -79,6 +82,15 @@ ggplot(data = filter(devel, date != "2019-01-11"), aes(x = date, y = totalLength
 ggplot(data = filter(devel, date != "2019-01-11"), aes(x = temperatureTreatment, y = totalLength, fill = foodTreatment)) +
   geom_boxplot() +
   scale_fill_viridis(discrete = TRUE, begin = 0.8, end = 0.5, option = "C")
+
+# dabestr plots of various metrics
+total_length_dabest <- devel %>%
+  filter(date != "2019-01-11") %>%
+  dabest(foodTreatment, totalLength, idx = c("Isochrysis", "Rhodomonas"), paired = FALSE)
+
+plot(total_length_dabest, color.column = temperatureTreatment, palette = "Paired")
+  
+
   
 # qual: 
 qual_devel <- qual %>%
